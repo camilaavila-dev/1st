@@ -24,7 +24,6 @@ resultado = fatorial(n)
 
 def numero_binomial(n, k):
     return fatorial(n) / (fatorial(k) * fatorial((n-k)))
-n! / (k! * (n - k)!)
 
 #Teste
 
