@@ -1,0 +1,1 @@
+Exercícios propostos no curso de Introdução a Programação em Python pelo IME-USP.
